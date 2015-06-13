@@ -1,4 +1,4 @@
-#Magento U Session #10
+#Magento U Session #10: Sales & Shipping
 
 
 ##Exercise 1
@@ -7,5 +7,5 @@ Implement a module that saves all sales CRUD operations (frontend and adminhtml)
 ##Exercise 2
 Implement a shipping module that uses the new product attributes height, width, and depth to calculate the shipping cost. Respect items with free shipping from coupons.
 
-##Exercise 3: Multi-select Source Model
+##Exercise 3
 Automatically attach the invoice PDF with the order confirmation email (backend and frontend).
