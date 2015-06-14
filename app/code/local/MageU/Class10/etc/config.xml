@@ -5,4 +5,13 @@
             <version>0.1.0</version>
         </MageU_class10>
     </modules>
+    <global>
+        <resources>
+            <mageu10_setup>
+                <setup>
+                    <module>MageU_Class10</module>
+                </setup>
+            </mageu10_setup>            
+        </resources>
+    </global>
 </config>
